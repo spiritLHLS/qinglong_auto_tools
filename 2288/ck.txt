@@ -1,0 +1,4 @@
+pt_key=xxxx;pt_pin=xxx;
+pt_key=xxxx;pt_pin=xxx;
+pt_key=xxxx;pt_pin=xxx;
+pt_key=xxxx;pt_pin=xxx;

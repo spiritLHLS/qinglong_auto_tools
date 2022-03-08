@@ -1,0 +1,71 @@
+# 配置相关的说明请查看对应脚本
+# 注意填写的是双引号括起来，不是单引号，单引号会报错
+# 二叉树分发ck
+### 主青龙
+cks_push_alql_cilent_id1="xxxxxxxx"
+cks_push_alql_cilent_secret1="xxxxxxxxxx"
+cks_push_alql_url1="http://xxxxxxxx:xxxx/"
+### 副青龙
+cks_push_alql_N_c="40"
+cks_push_alql_client_ids=["",""]
+cks_push_alql_client_secrets=["",""]
+cks_push_alql_urllist=["http://xxxxxxxxx:xxxx/",""]
+### 备份容器
+cks_push_alql_cilent_id_che=["xxxxxxxx",""]
+cks_push_alql_cilent_secret_che=["xxxxxxxxxx",""]
+cks_push_alql_che=["http://xxxxxxxx:xxxx/",""]
+
+
+# 二叉树合并ck
+### 主青龙
+cks_merge_alql_cilent_id1="xxxxxxxx"
+cks_merge_alql_cilent_secret1="xxxxxxxxxx"
+cks_merge_alql_url1="http://xxxxxxxx:xxxx/"
+### 副青龙
+cks_merge_alql_client_ids=["",""]
+cks_merge_alql_client_secrets=["",""]
+cks_merge_alql_urllist=["http://xxxxxxxxx:xxxx/",""]
+
+
+# 二叉树环境变量状态同步
+### 主青龙
+cks_sync_able_cilent_id1="xxxxxxxx"
+cks_sync_able_cilent_secret1="xxxxxxxxxx"
+cks_sync_able_url1="http://xxxxxxxx:xxxx/"
+### 副青龙
+cks_sync_able_client_ids=["",""]
+cks_sync_able_client_secrets=["",""]
+cks_sync_able_urllist=["http://xxxxxxxxx:xxxx/",""]
+
+
+# 二叉树同步任务启用禁用
+### 主青龙
+tasks_sync_able_cilent_id1=""
+tasks_sync_able_cilent_secret1=""
+tasks_sync_able_url1=""
+### 副青龙
+tasks_sync_able_client_ids=["",""]
+tasks_sync_able_client_secrets=["",""]
+tasks_sync_able_urllist=["http://xxxxxxx:xxxx/",""]
+
+
+# 二叉树同步脚本文件
+### 主青龙
+tasks_sync_scripts_able_cilent_id1=""
+tasks_sync_scripts_able_cilent_secret1=""
+tasks_sync_scripts_able_url1=""
+### 副青龙
+tasks_sync_scripts_able_client_ids=["",""]
+tasks_sync_scripts_able_client_secrets=["",""]
+tasks_sync_scripts_able_urllist=["http://xxxxxxx:xxxx/",""]
+
+
+# 二叉树脚本无脑全同步
+### 主青龙
+tasks_sync_all_cilent_id1=""
+tasks_sync_all_cilent_secret1=""
+tasks_sync_all_url1=""
+### 副青龙
+tasks_sync_all_client_ids=["",""]
+tasks_sync_all_client_secrets=["",""]
+tasks_sync_all_urllist=["http://xxxxxxx:xxxx/",""]
