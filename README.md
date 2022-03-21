@@ -207,6 +207,12 @@ scripts_check_dependence.py，也就是二叉树修复依赖文件脚本，拉�
 
 群组：https://t.me/qinglong_auto_tools_chat
 
+###  赞助
+
+XMR
+
+4AFhwqmD9ZeCm93tDcSbC69z3qCsobjTCKHvYsq4H3tMFLUPLWJz2BvChuvb8WtwBPdxkYnAaGE48XoXTqUZwL8xBtp5Mrz
+
 # 免责声明
 
 * 代码仅供学习
